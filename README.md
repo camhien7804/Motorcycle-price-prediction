@@ -58,4 +58,4 @@ python app/app.py
 
 ---
 
-👉 Bạn có muốn mình tạo luôn file **requirements.txt** (danh sách thư viện cần thiết) để người khác có thể chạy project dễ dàng không?
+END.
